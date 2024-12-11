@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "contraseña",
+    "database": "ejercicio_clase_14",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
